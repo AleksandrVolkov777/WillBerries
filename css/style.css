@@ -107,6 +107,10 @@ button {
     background: #b9e0b4 url('../img/zara.png') no-repeat top right 30%;
 }
 
+.slide-2 {
+    background: #b9e0b4 url('../img/men.png') no-repeat top right 30%;
+}
+
 .label {
     background-color: #3DC47E;
     border-radius: 3px;
