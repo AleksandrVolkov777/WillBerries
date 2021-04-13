@@ -104,11 +104,12 @@ button {
 }
 
 .slide-2 {
-    background: #b9e0b4 url('../img/zara.png') no-repeat top right 30%;
+    background: #8e9299 url('../img/zara.png') no-repeat top right 30%;
 }
 
-.slide-2 {
-    background: #b9e0b4 url('../img/men.png') no-repeat top right 30%;
+.slide-3 {
+    background: #78745b url('../img/slide-image-5.png') no-repeat top right 30%;
+    background-size: contain;
 }
 
 .label {
